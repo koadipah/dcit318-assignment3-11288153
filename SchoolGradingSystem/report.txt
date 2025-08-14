@@ -1,0 +1,6 @@
+Kwabena Adipa (ID: 101): Score = 99, Grade = A
+Ama Nisin (ID: 102): Score = 73, Grade = B
+Kukua Jessie (ID: 103): Score = 59, Grade = D
+David Brown (ID: 104): Score = 80, Grade = A
+Handson Kuku (ID: 105): Score = 43, Grade = F
+Timothy Ninsin (ID: 106): Score = 2, Grade = F
