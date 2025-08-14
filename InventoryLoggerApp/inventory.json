@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "USB-C Cable",
+    "Quantity": 120,
+    "DateAdded": "2025-08-14T19:48:47.656702Z"
+  },
+  {
+    "Id": 2,
+    "Name": "Wireless Mouse",
+    "Quantity": 45,
+    "DateAdded": "2025-08-14T19:18:47.656757Z"
+  },
+  {
+    "Id": 3,
+    "Name": "LED Monitor 24\u0022",
+    "Quantity": 12,
+    "DateAdded": "2025-08-14T14:48:47.65676Z"
+  },
+  {
+    "Id": 4,
+    "Name": "Keyboard Mechanical",
+    "Quantity": 20,
+    "DateAdded": "2025-08-13T19:48:47.65676Z"
+  }
+]
