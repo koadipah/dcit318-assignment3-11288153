@@ -1,0 +1,15 @@
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/HealthcareSystem/bin/Debug/net9.0/HealthcareSystem
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/HealthcareSystem/bin/Debug/net9.0/HealthcareSystem.deps.json
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/HealthcareSystem/bin/Debug/net9.0/HealthcareSystem.runtimeconfig.json
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/HealthcareSystem/bin/Debug/net9.0/HealthcareSystem.dll
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/HealthcareSystem/bin/Debug/net9.0/HealthcareSystem.pdb
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/HealthcareSystem/obj/Debug/net9.0/HealthcareSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/HealthcareSystem/obj/Debug/net9.0/HealthcareSystem.AssemblyInfoInputs.cache
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/HealthcareSystem/obj/Debug/net9.0/HealthcareSystem.AssemblyInfo.cs
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/HealthcareSystem/obj/Debug/net9.0/HealthcareSystem.csproj.CoreCompileInputs.cache
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/HealthcareSystem/obj/Debug/net9.0/HealthcareSystem.sourcelink.json
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/HealthcareSystem/obj/Debug/net9.0/HealthcareSystem.dll
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/HealthcareSystem/obj/Debug/net9.0/refint/HealthcareSystem.dll
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/HealthcareSystem/obj/Debug/net9.0/HealthcareSystem.pdb
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/HealthcareSystem/obj/Debug/net9.0/HealthcareSystem.genruntimeconfig.cache
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/HealthcareSystem/obj/Debug/net9.0/ref/HealthcareSystem.dll
