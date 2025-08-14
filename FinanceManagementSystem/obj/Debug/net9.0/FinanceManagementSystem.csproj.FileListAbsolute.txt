@@ -1,0 +1,14 @@
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/FinanceManagementSystem/bin/Debug/net9.0/FinanceManagementSystem
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/FinanceManagementSystem/bin/Debug/net9.0/FinanceManagementSystem.deps.json
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/FinanceManagementSystem/bin/Debug/net9.0/FinanceManagementSystem.runtimeconfig.json
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/FinanceManagementSystem/bin/Debug/net9.0/FinanceManagementSystem.dll
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/FinanceManagementSystem/bin/Debug/net9.0/FinanceManagementSystem.pdb
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/FinanceManagementSystem/obj/Debug/net9.0/FinanceManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/FinanceManagementSystem/obj/Debug/net9.0/FinanceManagementSystem.AssemblyInfoInputs.cache
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/FinanceManagementSystem/obj/Debug/net9.0/FinanceManagementSystem.AssemblyInfo.cs
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/FinanceManagementSystem/obj/Debug/net9.0/FinanceManagementSystem.csproj.CoreCompileInputs.cache
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/FinanceManagementSystem/obj/Debug/net9.0/FinanceManagementSystem.dll
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/FinanceManagementSystem/obj/Debug/net9.0/refint/FinanceManagementSystem.dll
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/FinanceManagementSystem/obj/Debug/net9.0/FinanceManagementSystem.pdb
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/FinanceManagementSystem/obj/Debug/net9.0/FinanceManagementSystem.genruntimeconfig.cache
+/Users/adipahosei/Documents/Lvl 300-Second Sem/318/dcit318-assignment3-11288153/FinanceManagementSystem/obj/Debug/net9.0/ref/FinanceManagementSystem.dll
